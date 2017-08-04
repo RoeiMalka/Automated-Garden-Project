@@ -25,6 +25,7 @@
 
 const char* WIFI_SSID = "malka_home";
 const char* WIFI_PASS = "mg2jBCNe";
+const int   PLANT_ID  = 1;
 
 int analogValue;
 int nHumidity;

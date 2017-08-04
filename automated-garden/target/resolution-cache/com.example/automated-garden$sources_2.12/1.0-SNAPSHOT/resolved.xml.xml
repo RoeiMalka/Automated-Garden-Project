@@ -4,7 +4,7 @@
 		module="automated-garden$sources_2.12"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20170801000202"
+		publication="20170804222813"
 	/>
 	<configurations>
 		<conf name="universal" visibility="public" description=""/>

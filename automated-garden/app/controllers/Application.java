@@ -7,8 +7,4 @@ import play.mvc.*;
  * to the application's home page.
  */
 public class Application extends Controller {
-
-
-
-
 }
